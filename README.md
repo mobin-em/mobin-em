@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza(mobin)Mirshafie</h1>
 <h3 align="center">BackEnd Developer</h3>
 
-- 💬About Me **I'm a passionate PHP & Laravel developer with hands-on experience in building scalable web applications and optimizing websites for better search engine performance. I specialize in developing backend solutions with Laravel and integrating modern SEO strategies to improve visibility and performance. I'm currently open to both full-time and freelance opportunities where I can contribute my technical skills and grow professionally. I'm always eager to learn, collaborate, and take on new challenges in the web development field.**
+- 💬About Me: **I'm a passionate PHP & Laravel developer with hands-on experience in building scalable web applications and optimizing websites for better search engine performance. I specialize in developing backend solutions with Laravel and integrating modern SEO strategies to improve visibility and performance. I'm currently open to both full-time and freelance opportunities where I can contribute my technical skills and grow professionally. I'm always eager to learn, collaborate, and take on new challenges in the web development field.**
 
 - 📫 How to reach me **Mirshafie.mohamadreza@gmail.com**
 
